@@ -1,0 +1,17 @@
+id,name,cnic,province,city,currentAddress,permanentAddress,fatherName,gender,birthDate,vaccine,doses
+NR-0001,"Ahmad Faraz",3230402047899,"Punjab","Lahore","Garden town streat#4","Garden town streat#4","Saeed Akhtar",male,2000-04-19,Cinoform,2
+NR-0002,"Rayan Rasheed",3130258066437,"Punjab","Lahore","Mugalpura","Bahawalpur","Abdul Rasheed",male,2004-10-25,Pfizer,1
+NR-0003,"Mukram Ali",3130260006148,"punjab","Lahore","Lahore Uet","Faisalabad","Ali Mukhtar",male,2003-12-31,pfizer,1
+NR-0004,"Abdullah irshad",3130240004183,"punjab","lahore","Lahore model town","Awan town","Akram rizwan",male,2000-12-01,cinoform,1
+NR-0005,"ali bhai",3130200002300,"punjab","Lahore","lahore","lahoe","kuldeep",male,2004-12-01,pfizer,1
+NR-0006,"zunaira mukhtar",3130258077436,"punjab","Lahore","lake city","mugalpura","mukhtar hassan",female,1996-12-31,pfizer,1
+NR-0007,"hammad asghar",3130230006184,"punjab","Lahore","Lahore jh","Lahore hgd","Asghar sultan",male,2001-12-23,pfizer,2
+NR-0008,"Faraz Ahmad",3130270006178,"punjab","Lahore","Opposite Anarkali bazar","Mugalpura","Ahmad Ashfaq",male,1996-12-23,pfizer,2
+NR-0009,"Zaid Majid",3130550005185,"Punjab","Lahore","Bhagwanpura street#3","Okara paki mandi","Majid Iqbal",male,1986-01-21,cinofom,1
+NR-0010,"Waqas Afzal",3130530003187,"Punjab","Lahore","DHA phase 8","DHA phase 8","Afzal Khan",male,1965-12-21,cinoform,1
+NR-0011,"Faraz Ahmad",3130270006178,"punjab","Lahore","Opposite Anarkali bazar","Mugalpura","Ahmad Ashfaq",male,1955-12-23,pfizer,2
+NR-0012,"Zaid Majid",3130550005185,"Punjab","Lahore","Bhagwanpura street#3","Okara paki mandi","Majid Iqbal",male,1955-01-21,cinofom,1
+NR-0013,"Waqas Afzal",3130530003187,"Punjab","Lahore","DHA phase 8","DHA phase 8","Afzal Khan",male,1918-12-21,cinoform,1
+NR-0014,"Zaid Majid",3130200222087,"punjab","fsd","lahore","faislabad","majid",male,2004-12-12,cinofom,1
+NR-0015,"Hassan Ali",3130260006174,"Punjab","fsd","Lahore ","mugalpura lahore","Ali mukhtar",male,2001-12-23,cinoform,1
+NR-0016,"Ali Ahmad",3130260006184,"punjab","Lahore","jds jdsj","jdfj jdfj","hammad",male,2001-01-11,pfizer,2

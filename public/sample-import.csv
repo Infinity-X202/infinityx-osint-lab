@@ -1,0 +1,3 @@
+id,name,username,email,phone,organization,address,city,country,domains,profiles,notes
+TR-0001,Rowan Vale,rowan.vale,rowan.vale@lumenforge.test,+99-555-***-4412,Lumen Forge,"18 Lumen Quay, Solara City",Solara City,Meridian States,lumenforge.test,lab.social.example/rowan.vale,Synthetic import sample
+TR-0002,Ellis Frost,efrost,efrost@nimbus-archive.test,+99-555-***-8821,Nimbus Archive,"44 Nimbus Court, Vellum Reach",Vellum Reach,Highlands Protectorate,nimbus-archive.test,forum.osint-lab.test/u/efrost,Synthetic import sample

@@ -1,0 +1,10 @@
+{
+  "csv": [
+    "prize-winners.csv",
+    "nadra-demo.csv",
+    "pakistan-database.csv"
+  ],
+  "json": [
+    "pakistan-database.json"
+  ]
+}
